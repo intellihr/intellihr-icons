@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'intellihr';
+  src:  url('fonts/intellihr.eot?fkdp3d');
+  src:  url('fonts/intellihr.eot?fkdp3d#iefix') format('embedded-opentype'),
+    url('fonts/intellihr.ttf?fkdp3d') format('truetype'),
+    url('fonts/intellihr.woff?fkdp3d') format('woff'),
+    url('fonts/intellihr.svg?fkdp3d#intellihr') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="intelli-icon-"], [class*=" intelli-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'intellihr' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.intelli-icon-pie:before {
+  content: "\e900";
+}
+.intelli-icon-people:before {
+  content: "\e901";
+}
+.intelli-icon-config:before {
+  content: "\e902";
+}
+.intelli-icon-sync:before {
+  content: "\e903";
+}
+.intelli-icon-australia:before {
+  content: "\e904";
+}
+.intelli-icon-orgs:before {
+  content: "\e905";
+}
+.intelli-icon-line-chart:before {
+  content: "\e906";
+}
+.intelli-icon-shield:before {
+  content: "\e907";
+}
+.intelli-icon-book:before {
+  content: "\e908";
+}
+.intelli-icon-people-2:before {
+  content: "\e909";
+}
+.intelli-icon-heart:before {
+  content: "\e90a";
+}
+.intelli-icon-card:before {
+  content: "\e90b";
+}
+.intelli-icon-people-3:before {
+  content: "\e90c";
+}
+.intelli-icon-glasses:before {
+  content: "\e90d";
+}
+.intelli-icon-multi-line-chart:before {
+  content: "\e90e";
+}
+.intelli-icon-config-2:before {
+  content: "\e90f";
+}
+.intelli-icon-sync-2:before {
+  content: "\e910";
+}
+.intelli-icon-orgs-board:before {
+  content: "\e911";
+}
+.intelli-icon-check-list:before {
+  content: "\e912";
+}
+.intelli-icon-support:before {
+  content: "\e913";
+}
+.intelli-icon-target:before {
+  content: "\e914";
+}
+.intelli-icon-sync-3:before {
+  content: "\e915";
+}
+.intelli-icon-copy:before {
+  content: "\e916";
+}
+.intelli-icon-clock:before {
+  content: "\e917";
+}
+.intelli-icon-check-list-2:before {
+  content: "\e918";
+}
+.intelli-icon-check:before {
+  content: "\e919";
+}
+.intelli-icon-check-list-3:before {
+  content: "\e91a";
+}
+.intelli-icon-sync-4:before {
+  content: "\e91b";
+}
+.intelli-icon-check-list-4:before {
+  content: "\e91c";
+}
+
