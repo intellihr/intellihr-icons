@@ -1,0 +1,18 @@
+{
+  "name": "intellihr-icons",
+  "version": "0.0.1",
+  "description": "Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellihr/intellihr-icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intellihr/intellihr-icons/issues"
+  },
+  "homepage": "https://github.com/intellihr/intellihr-icons#readme"
+}
