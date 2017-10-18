@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'intellihr';
-  src:  url('fonts/intellihr.eot?z851rg');
-  src:  url('fonts/intellihr.eot?z851rg#iefix') format('embedded-opentype'),
-    url('fonts/intellihr.ttf?z851rg') format('truetype'),
-    url('fonts/intellihr.woff?z851rg') format('woff'),
-    url('fonts/intellihr.svg?z851rg#intellihr') format('svg');
+  src:  url('fonts/intellihr.eot?2jg1wj');
+  src:  url('fonts/intellihr.eot?2jg1wj#iefix') format('embedded-opentype'),
+    url('fonts/intellihr.ttf?2jg1wj') format('truetype'),
+    url('fonts/intellihr.woff?2jg1wj') format('woff'),
+    url('fonts/intellihr.svg?2jg1wj#intellihr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.intelli-icon-sentiment-performance-management:before {
+  content: "\e927";
+  color: #47525d;
+}
+.intelli-icon-sentiment-diary-notes:before {
+  content: "\e937";
+  color: #47525d;
+}
+.intelli-icon-sentiment-forms:before {
+  content: "\e938";
+  color: #47525d;
+}
+.intelli-icon-sentiment-goals:before {
+  content: "\e939";
+  color: #47525d;
+}
+.intelli-icon-sentiment:before {
+  content: "\e93a";
+  color: #47525d;
+}
 .intelli-icon-search:before {
   content: "\e91e";
 }
@@ -98,91 +118,121 @@
 }
 .intelli-icon-sync-5:before {
   content: "\e91d";
+  color: #432df3;
 }
 .intelli-icon-pie:before {
   content: "\e900";
+  color: #432df3;
 }
 .intelli-icon-people:before {
   content: "\e901";
+  color: #432df3;
 }
 .intelli-icon-config:before {
   content: "\e902";
+  color: #432df3;
 }
 .intelli-icon-sync:before {
   content: "\e903";
+  color: #432df3;
 }
 .intelli-icon-australia:before {
   content: "\e904";
+  color: #432df3;
 }
 .intelli-icon-orgs:before {
   content: "\e905";
+  color: #432df3;
 }
 .intelli-icon-line-chart:before {
   content: "\e906";
+  color: #432df3;
 }
 .intelli-icon-shield:before {
   content: "\e907";
+  color: #432df3;
 }
 .intelli-icon-book:before {
   content: "\e908";
+  color: #432df3;
 }
 .intelli-icon-people-2:before {
   content: "\e909";
+  color: #432df3;
 }
 .intelli-icon-heart:before {
   content: "\e90a";
+  color: #432df3;
 }
 .intelli-icon-card:before {
   content: "\e90b";
+  color: #432df3;
 }
 .intelli-icon-people-3:before {
   content: "\e90c";
+  color: #432df3;
 }
 .intelli-icon-glasses:before {
   content: "\e90d";
+  color: #432df3;
 }
 .intelli-icon-multi-line-chart:before {
   content: "\e90e";
+  color: #432df3;
 }
 .intelli-icon-config-2:before {
   content: "\e90f";
+  color: #432df3;
 }
 .intelli-icon-sync-2:before {
   content: "\e910";
+  color: #432df3;
 }
 .intelli-icon-orgs-board:before {
   content: "\e911";
+  color: #432df3;
 }
 .intelli-icon-check-list:before {
   content: "\e912";
+  color: #432df3;
 }
 .intelli-icon-support:before {
   content: "\e913";
+  color: #432df3;
 }
 .intelli-icon-target:before {
   content: "\e914";
+  color: #432df3;
 }
 .intelli-icon-sync-3:before {
   content: "\e915";
+  color: #432df3;
 }
 .intelli-icon-copy:before {
   content: "\e916";
+  color: #432df3;
 }
 .intelli-icon-clock:before {
   content: "\e917";
+  color: #432df3;
 }
 .intelli-icon-check-list-2:before {
   content: "\e918";
+  color: #432df3;
 }
 .intelli-icon-check:before {
   content: "\e919";
+  color: #432df3;
 }
 .intelli-icon-check-list-3:before {
   content: "\e91a";
+  color: #432df3;
 }
 .intelli-icon-sync-4:before {
   content: "\e91b";
+  color: #432df3;
 }
 .intelli-icon-check-list-4:before {
   content: "\e91c";
+  color: #432df3;
 }
