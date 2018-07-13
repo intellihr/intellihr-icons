@@ -1,5 +1,5 @@
 {
-  "name": "intellihr-icons",
+  "name": "@intellihr/icons",
   "version": "0.0.2",
   "description": "Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.",
   "scripts": {
