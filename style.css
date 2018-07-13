@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'intellihr';
-  src:  url('fonts/intellihr.eot?gskvua');
-  src:  url('fonts/intellihr.eot?gskvua#iefix') format('embedded-opentype'),
-    url('fonts/intellihr.ttf?gskvua') format('truetype'),
-    url('fonts/intellihr.woff?gskvua') format('woff'),
-    url('fonts/intellihr.svg?gskvua#intellihr') format('svg');
+  src:  url('fonts/intellihr.eot?dtgu23');
+  src:  url('fonts/intellihr.eot?dtgu23#iefix') format('embedded-opentype'),
+    url('fonts/intellihr.ttf?dtgu23') format('truetype'),
+    url('fonts/intellihr.woff?dtgu23') format('woff'),
+    url('fonts/intellihr.svg?dtgu23#intellihr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.intelli-icon-training:before {
+  content: "\e93d";
+}
 .intelli-icon-alert:before {
   content: "\e93c";
 }
