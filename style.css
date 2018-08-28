@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'intellihr';
-  src:  url('fonts/intellihr.eot?72w1fj');
-  src:  url('fonts/intellihr.eot?72w1fj#iefix') format('embedded-opentype'),
-    url('fonts/intellihr.ttf?72w1fj') format('truetype'),
-    url('fonts/intellihr.woff?72w1fj') format('woff'),
-    url('fonts/intellihr.svg?72w1fj#intellihr') format('svg');
+  src:  url('fonts/intellihr.eot?i7swww');
+  src:  url('fonts/intellihr.eot?i7swww#iefix') format('embedded-opentype'),
+    url('fonts/intellihr.ttf?i7swww') format('truetype'),
+    url('fonts/intellihr.woff?i7swww') format('woff'),
+    url('fonts/intellihr.svg?i7swww#intellihr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -215,4 +215,10 @@
 }
 .intelli-icon-safety-and-wellbeing:before {
   content: "\e93f";
+}
+.intelli-icon-self-task:before {
+  content: "\e940";
+}
+.intelli-icon-peer-task:before {
+  content: "\e941";
 }
