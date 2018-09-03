@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'intellihr';
-  src:  url('fonts/intellihr.eot?i7swww');
-  src:  url('fonts/intellihr.eot?i7swww#iefix') format('embedded-opentype'),
-    url('fonts/intellihr.ttf?i7swww') format('truetype'),
-    url('fonts/intellihr.woff?i7swww') format('woff'),
-    url('fonts/intellihr.svg?i7swww#intellihr') format('svg');
+  src:  url('fonts/intellihr.eot?mp1xwd');
+  src:  url('fonts/intellihr.eot?mp1xwd#iefix') format('embedded-opentype'),
+    url('fonts/intellihr.ttf?mp1xwd') format('truetype'),
+    url('fonts/intellihr.woff?mp1xwd') format('woff'),
+    url('fonts/intellihr.svg?mp1xwd#intellihr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.intelli-icon-arrow-left:before {
+  content: "\e942";
+}
+.intelli-icon-arrow-up:before {
+  content: "\e943";
+}
+.intelli-icon-arrow-right:before {
+  content: "\e929";
+}
 .intelli-icon-training:before {
   content: "\e93d";
 }
@@ -77,9 +86,6 @@
 }
 .intelli-icon-social-linkedin:before {
   content: "\e928";
-}
-.intelli-icon-arrow-right:before {
-  content: "\e929";
 }
 .intelli-icon-column:before {
   content: "\e92a";
