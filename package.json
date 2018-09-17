@@ -1,6 +1,6 @@
 {
   "name": "@intellihr/icons",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
